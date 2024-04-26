@@ -7490,6 +7490,18 @@ pretty-bytes@^5.3.0:
   resolved "https://registry.yarnpkg.com/pretty-bytes/-/pretty-bytes-5.6.0.tgz#356256f643804773c82f64723fe78c92c62beaeb"
   integrity sha512-FFw039TmrBqFK8ma/7OL3sDz/VytdtJr044/QUJtH0wK9lb9jLq9tJyIxUwtQJHwar2BqtiA4iCWSwo9JLkzFg==
 
+primeicons@^7.0.0:
+  version "7.0.0"
+  resolved "https://registry.yarnpkg.com/primeicons/-/primeicons-7.0.0.tgz#6b25c3fdcb29bb745a3035bdc1ed5902f4a419cf"
+  integrity sha512-jK3Et9UzwzTsd6tzl2RmwrVY/b8raJ3QZLzoDACj+oTJ0oX7L9Hy+XnVwgo4QVKlKpnP/Ur13SXV/pVh4LzaDw==
+
+primeng@^17.14.1:
+  version "17.14.1"
+  resolved "https://registry.yarnpkg.com/primeng/-/primeng-17.14.1.tgz#3153a83ad9b79604e45bb340a356b96fbc48922a"
+  integrity sha512-hjJzjiNZR0+zCEbvLidXYzJriwgxj4vTBMTmmw9JP5b17mO3Ruhv7h4ofEThpnc1LyE0W91f8jC+Q/Kg2Xuqrw==
+  dependencies:
+    tslib "^2.3.0"
+
 prism-themes@1.9.0:
   version "1.9.0"
   resolved "https://registry.yarnpkg.com/prism-themes/-/prism-themes-1.9.0.tgz#19c034f3205f1e28d75d89728e54ccd745f7e3dd"
